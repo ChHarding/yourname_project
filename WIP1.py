@@ -1,3 +1,3 @@
-# work in progress 2
-a = 2 + 2
+# work in progress 3
+a = 3 + 3
 print(a)
